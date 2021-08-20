@@ -3113,15 +3113,6 @@ html .vuetify {
   /* Specify textarea resizability */
 }
 
-.vuetify button,
-.vuetify input,
-.vuetify optgroup,
-.vuetify select,
-.vuetify textarea {
-  font: inherit;
-  /* Specify font inheritance of form elements */
-}
-
 .vuetify optgroup {
   font-weight: bold;
   /* Restore the font weight unset by the previous rule */
